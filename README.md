@@ -5,6 +5,7 @@ Menu is present in text files in 'Menu' folder and bills will be saved in text f
 GUI is created using Python Tkinter.
 
 User enters customer details and selects item from menu.
+Menu can be displayed category wize.
 Selected item will be displayed in item frame from where user can add item, remove item, update quantity.
 Changes will be displayed in Order list in order frame.
 User can generate bill after selecting at least 1 item.
